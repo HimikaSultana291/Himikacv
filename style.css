@@ -1,0 +1,108 @@
+div
+{
+    border-radius: 5px;
+}
+#header
+{
+    position: fixed;
+    height:40px;
+    width: 98%;
+    background-color: #668284;
+    margin-bottom: 10px;
+ }
+ #header a,p{
+    margin-top: 10px;
+ }
+
+#name {
+    float:left;
+	margin-left: 20px;
+	padding-bottom: 10px;
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+	color: #ffffff;
+}
+
+#email{
+    float:right;
+    margin-right: 20px;
+	padding-bottom: 10px;
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+	color: #ffffff;
+}
+
+a:hover {
+    font-weight: bold;
+}
+.address
+{
+ 
+    float: left;
+    margin-top: 50px;
+    padding-left:5px;
+	padding-bottom: 10px;
+    height: 120;
+    width: 99%;
+    background-color: #E3EDD8;
+}
+
+.right
+{
+    float: left;
+    margin-top: 10px;
+    padding-left:5px;
+    height: auto;
+    width: 99%;
+    background-color: #E3EDD8;
+    }
+.img{
+	padding-top: none;
+	padding-bottom: none;
+	width: 130;
+	height:130; 
+	float:right;
+	border-radius: 5px;
+}
+   
+#footer
+{
+    height:40px;
+    clear:both;
+    background-color: #C1E3E1;
+}
+    
+h3
+{
+    text-decoration: underline;
+}
+
+table
+{
+    border: 1px ;
+    }
+td
+{
+    padding: 2px;
+    border: 1px solid #E88741;
+    }
+
+#course-name
+{
+    font-weight:bold;
+}
+
+#heading
+{
+    font-weight:bold;
+}
+
+.works ul li a{
+    text-decoration: none;
+    color: #16a085;
+    font-size: 18px;
+    font-weight: 800;
+}
+.works ul li a:hover{
+    color: #e17055;
+}
